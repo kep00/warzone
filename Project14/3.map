@@ -1,0 +1,24 @@
+[Map]
+author=Iceworm72
+image=001_I72_Ghtroc 720.bmp
+wrap=no
+scroll=vertical
+warn=no
+
+[Continents]
+A=5
+B=6
+C=6
+
+[Territories]
+01,658,355,A,02
+02,658,375,A,01,03
+03,658,395,A,02
+
+04,205,170,B,05
+05,332,136,B,04
+06,413,226,B,07
+07,416,272,B,06
+
+08,478,208,C,09
+09,503,267,C,08

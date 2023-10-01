@@ -1,0 +1,5 @@
+loadmap 1.map
+validatemap
+addplayer Tom
+gamestart
+quit

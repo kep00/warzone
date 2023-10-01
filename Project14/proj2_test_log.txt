@@ -1,0 +1,163 @@
+start!
+begin of testTournament
+Tournament mode: 
+M:3
+P:3
+G:4
+D:100
+
+exec:
+a:0 b: 3 c: 0 d: 100
+round:0
+Use Map:1.map
+Player:
+Player1:Cheater
+Player2:Aggressive
+Player3:Aggressive
+MaxTurn:100
+Over!
+
+
+exec:
+a:0 b: 3 c: 1 d: 100
+round:1
+Use Map:1.map
+Player:
+Player1:Benevolent
+Player2:Benevolent
+Player3:Aggressive
+MaxTurn:100
+Over!
+
+
+exec:
+a:0 b: 3 c: 2 d: 100
+round:2
+Use Map:1.map
+Player:
+Player1:Aggressive
+Player2:Neutral
+Player3:Benevolent
+MaxTurn:100
+Over!
+
+
+exec:
+a:0 b: 3 c: 3 d: 100
+round:3
+Use Map:1.map
+Player:
+Player1:Benevolent
+Player2:Aggressive
+Player3:Benevolent
+MaxTurn:100
+Over!
+
+
+exec:
+a:1 b: 3 c: 0 d: 100
+round:0
+Use Map:2.map
+Player:
+Player1:Cheater
+Player2:Benevolent
+Player3:Neutral
+MaxTurn:100
+Neutral's PlayerStrategy changed
+Over!
+
+
+exec:
+a:1 b: 3 c: 1 d: 100
+round:1
+Use Map:2.map
+Player:
+Player1:Aggressive
+Player2:Neutral
+Player3:Neutral
+MaxTurn:100
+Neutral's PlayerStrategy changed
+Neutral's PlayerStrategy changed
+Over!
+
+
+exec:
+a:1 b: 3 c: 2 d: 100
+round:2
+Use Map:2.map
+Player:
+Player1:Cheater
+Player2:Aggressive
+Player3:Cheater
+MaxTurn:100
+Over!
+
+
+exec:
+a:1 b: 3 c: 3 d: 100
+round:3
+Use Map:2.map
+Player:
+Player1:Aggressive
+Player2:Neutral
+Player3:Cheater
+MaxTurn:100
+Neutral's PlayerStrategy changed
+Over!
+
+
+exec:
+a:2 b: 3 c: 0 d: 100
+round:0
+Use Map:3.map
+Player:
+Player1:Neutral
+Player2:Cheater
+Player3:Aggressive
+MaxTurn:100
+Neutral's PlayerStrategy changed
+Over!
+
+
+exec:
+a:2 b: 3 c: 1 d: 100
+round:1
+Use Map:3.map
+Player:
+Player1:Cheater
+Player2:Neutral
+Player3:Aggressive
+MaxTurn:100
+Over!
+
+
+exec:
+a:2 b: 3 c: 2 d: 100
+round:2
+Use Map:3.map
+Player:
+Player1:Benevolent
+Player2:Cheater
+Player3:Cheater
+MaxTurn:100
+Over!
+
+
+exec:
+a:2 b: 3 c: 3 d: 100
+round:3
+Use Map:3.map
+Player:
+Player1:Cheater
+Player2:Aggressive
+Player3:Neutral
+MaxTurn:100
+Neutral's PlayerStrategy changed
+Over!
+
+
+|		|Game 1		|Game 2		|Game 3		|Game 4		|
+|1.map	|Draw		|Benevolent	|Draw		|Draw		|
+|2.map	|Draw		|Draw		|Draw		|Draw		|
+|3.map	|Draw		|Draw		|Draw		|Neutral	|
+testTournament success

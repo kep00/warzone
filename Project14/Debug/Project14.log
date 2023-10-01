@@ -1,0 +1,29 @@
+﻿  PlayerStrategies.cpp
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\计算机\c++\program\project14\project14\playerstrategies.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(160): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(199): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(202): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(239): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(249): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(252): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(258): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(293): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(308): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(313): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(332): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(344): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(348): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(370): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(385): warning C4018: “<”: 有符号/无符号不匹配
+d:\计算机\c++\program\project14\project14\playerstrategies.cpp(388): warning C4018: “<”: 有符号/无符号不匹配
+  Project14.vcxproj -> D:\计算机\c++\program\Project14\Debug\Project14.exe
+  Project14.vcxproj -> D:\计算机\c++\program\Project14\Debug\Project14.pdb (Full PDB)

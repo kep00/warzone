@@ -1,0 +1,13 @@
+load 
+loadmap 1.map
+addplayer Tom
+validatemap
+addplayer Tom
+load 
+gamestart
+replay
+loadmap 2.txt
+validatemap
+addplayer Jerry
+gamestart
+quit
